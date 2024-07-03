@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Music Recommendation system using Spotify Dataset
 
 
@@ -33,3 +34,6 @@ Now that we have an app, we can get a client ID and a client secret for this app
 ├── notebooks          <- Serialized Jupyter notebooks created in the project.
 │   ├── script         <- Script for data extraction and loading data
 ```
+=======
+# music-recommendation
+>>>>>>> a1efde31a3ed0bf259feb4b7f5bb23af91065846
